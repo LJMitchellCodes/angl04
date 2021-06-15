@@ -1,0 +1,15 @@
+/*got rid of bullets*/
+
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  p {
+    padding-right: 5em;
+    padding-left: 5em;
+}
+/* Add the following: */
+app-skills {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
